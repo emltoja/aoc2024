@@ -6,6 +6,9 @@ __pycache__/
 # vscode 
 .vscode/
 
+# debug json 
+*/debug.json
+
 # C extensions
 *.so
 
